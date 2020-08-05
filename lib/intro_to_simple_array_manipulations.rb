@@ -1,8 +1,8 @@
-def push_method(array, string)
+def using_push(array, string)
   array.push(string)  
 end
 
-def unshift_method(array, string)
+def using_unshift(array, string)
   array.unshift(string)
 end
 
